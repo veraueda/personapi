@@ -23,6 +23,7 @@ import java.util.List;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
+//Person Entity Description
 public class Person {
 
     @Id

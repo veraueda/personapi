@@ -6,6 +6,7 @@ import lombok.Getter;
 @Getter
 @AllArgsConstructor
 
+//PhoneType Enum Description
 public enum PhoneType {
 
     HOME("Home"),

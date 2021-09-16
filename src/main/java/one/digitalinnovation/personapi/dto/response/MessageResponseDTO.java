@@ -5,6 +5,7 @@ import lombok.Data;
 
 @Data
 @Builder
+//Enable a Response Message
 public class MessageResponseDTO {
 
     private String message;

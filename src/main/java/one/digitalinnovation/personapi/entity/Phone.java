@@ -15,6 +15,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 @NoArgsConstructor
 
+//Phone Entity Description
 public class Phone {
 
     @Id
